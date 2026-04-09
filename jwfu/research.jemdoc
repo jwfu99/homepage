@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+= Research
+
+== Research Overview
+My research focuses on the foundations of trustworthy and generalizable AI, with an emphasis on understanding how large models learn, generalize, and reason.
+
+== Current Interests
+- Interpretability of Large Language Models
+- LLMs and Linguistics
+- Compositional Generalization
+- Multi-agent Systems
+
+A fuller list of papers and citations is on [https://scholar.google.com/citations?user=2Cu9uMUAAAAJ&hl=en/ Google Scholar].

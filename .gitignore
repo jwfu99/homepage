@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+*.swp
+# Generated HTML (except GitHub Pages output)
+*.html
+!docs/*.html
