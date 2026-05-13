@@ -2,13 +2,13 @@
 = Research
 
 == Research Overview
-My research focuses on the foundations of trustworthy and generalizable AI, with an emphasis on understanding how large models learn, generalize, and reason.
+My research focuses on efficient model design, AI for AI (AI4AI), explainability, and world models—building systems that are capable, interpretable, and grounded in structured understanding of environments.
 
 == Current Interests
-- Interpretability of Large Language Models
-- LLMs and Linguistics
-- Compositional Generalization
-- Multi-agent Systems
+- Efficient model design
+- AI4AI
+- Explainability research
+- World models
 
 == Selected Publications
 . *Jingwen Fu*, Nanning Zheng. On the Statistical Mechanisms of Distributional Compositional Generalization. /International Conference on Machine Learning (ICML)/, 2025.
