@@ -2,18 +2,34 @@
 = Research
 
 == Research Overview
-My research focuses on efficient model design, AI for AI (AI4AI), explainability, and world models—building systems that are capable, interpretable, and grounded in structured understanding of environments.
+My research focuses on AI for AI (AI4AI), world models, and learning theory - building learning systems that can design, improve, and understand themselves, while remaining grounded in statistical and structural principles.
 
 == Current Interests
-- Efficient model design
 - AI4AI
-- Explainability research
 - World models
+- Learning theory
 
 == Selected Publications
-. *Jingwen Fu*, Nanning Zheng. On the Statistical Mechanisms of Distributional Compositional Generalization. /International Conference on Machine Learning (ICML)/, 2025.
-. *Jingwen Fu*, Tao Yang, Yuwang Wang, Yan Lu, Nanning Zheng. Breaking through the Learning Plateaus of In-context Learning in Transformer. /International Conference on Machine Learning (ICML)/, 2024.
+(Equal contribution and corresponding authorship are noted inline.)
+
+=== AI4AI
+. Zhen Liu, Yuhan Liu, Jinjun Wang, Wei Song, Jianyi Liu, *Jingwen Fu* (corresponding). Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search. /International Conference on Machine Learning (ICML)/, 2026.
+. Zhen Liu, Wanqi Zhou, Shuanghao Bai, Wei Song, He Zhang, Yuhan Liu, *Jingwen Fu* (corresponding). Accelerating Neural Architecture Search with Code Semantics. /EMNLP/, 2026.
+. *Jingwen Fu*, Zhen Liu, Yuhan Liu, He Zhang, Nanning Zheng. Overcoming the Weakest-Link Effect in LLM-Driven Program Optimization via Heterogeneous Edit Recombination. /arXiv:2607.28947/, 2026.
+
+=== Learning Theory
+. *Jingwen Fu*, Nanning Zheng. On the Statistic Properties of the Distributional Compositional Generalization. /International Conference on Machine Learning (ICML)/, 2025.
+. *Jingwen Fu*, Tao Yang, Yuwang Wang, Yan Lu, Nanning Zheng. Breaking Through the Learning Plateaus of In-context Learning in Transformer. /International Conference on Machine Learning (ICML)/, 2024.
+. Bohan Wang, *Jingwen Fu*, Huishuai Zhang, Nanning Zheng, Wei Chen. Closing the Gap Between the Upper Bound and Lower Bound of Adam's Iteration Complexity. /Advances in Neural Information Processing Systems (NeurIPS)/, 2023. (equal contribution)
 . *Jingwen Fu*, Zhizheng Zhang, Dacheng Yin, Yan Lu, Nanning Zheng. Learning Trajectories are Generalization Indicators. /Advances in Neural Information Processing Systems (NeurIPS)/, 2023.
-. Bowen Wang, *Jingwen Fu*, Haoran Zhang, Nanning Zheng, Wei Chen. Closing the Gap Between the Upper Bound and the Lower Bound of Adam's Iteration Complexity. /Advances in Neural Information Processing Systems (NeurIPS)/, 2023.
+. Meidai Xuanyuan, Tao Yang, *Jingwen Fu*, Yuwang Wang. Insufficient Task Description can Impair In-context Learning: A Study from Information Perspective. /Information Fusion/, 2025.
+
+=== Multimodal Perception
+. Yuhan Liu, *Jingwen Fu*, Yang Wu, Kangyi Wu, Pengna Li, Jiayi Wu, Sanping Zhou, Jingmin Xin. Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching. /International Conference on Computer Vision (ICCV)/, 2025.
+. Yanqing Shen, Sanping Zhou, *Jingwen Fu*, Ruotong Wang, Shitao Chen, Nanning Zheng. StructVPR\+\+: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition. /IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)/, 2025.
+. Kangyi Wu, Pengna Li, *Jingwen Fu*, Yizhe Li, Yang Wu, Yuhan Liu, Jinjun Wang, Sanping Zhou. Event-Equalized Dense Video Captioning. /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2025.
+. Pengna Li, Kangyi Wu, *Jingwen Fu*, Sanping Zhou. REGNav: Room Expert Guided Image-Goal Navigation. /AAAI Conference on Artificial Intelligence (AAAI)/, 2025.
+. Yanqing Shen, Sanping Zhou, *Jingwen Fu*, Ruotong Wang, Shitao Chen, Nanning Zheng. StructVPR: Distill Structural Knowledge with Weighting Samples for Visual Place Recognition. /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2023.
+. *Jingwen Fu*, Xiaoyi Zhang, Yuwang Wang, Wenjun Zeng, Nanning Zheng. Understanding Mobile GUI: from Pixel-Words to Screen-Sentences. /Neurocomputing/, 2024. (equal contribution)
 
 A fuller list of papers and citations is on [https://scholar.google.com/citations?user=2Cu9uMUAAAAJ&hl=en/ Google Scholar].
