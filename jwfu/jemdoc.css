@@ -163,6 +163,17 @@ pre {
 	margin: 0;
 }
 
+div#visitor-stats {
+	clear: both;
+	font-size: small;
+	border-top: 1px solid #c0c0c0;
+	padding-top: 0.6em;
+	margin: 3.0em auto 1.0em auto;
+	max-width: 50em;
+	color: #888888;
+	text-align: center;
+}
+
 div#footer {
 	font-size: small;
 	border-top: 1px solid #c0c0c0;
